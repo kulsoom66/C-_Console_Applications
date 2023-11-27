@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\bin\Debug\net6.0\Week2 - functions.exe
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\bin\Debug\net6.0\Week2 - functions.deps.json
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\bin\Debug\net6.0\Week2 - functions.runtimeconfig.json
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\bin\Debug\net6.0\Week2 - functions.dll
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\bin\Debug\net6.0\Week2 - functions.pdb
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\Week2 - functions.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\Week2 - functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\Week2 - functions.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\Week2 - functions.AssemblyInfo.cs
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\Week2 - functions.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\Week2 - functions.dll
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\refint\Week2 - functions.dll
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\Week2 - functions.pdb
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\Week2 - functions.genruntimeconfig.cache
+C:\Users\Training\Desktop\C# projects\Week2 - functions\Week2 - functions\obj\Debug\net6.0\ref\Week2 - functions.dll
