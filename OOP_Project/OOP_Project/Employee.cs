@@ -72,6 +72,21 @@ namespace OOP_Project
         }
 
         public void setSalary(decimal salary) => this.salary = salary;
+
+        //access modifiers
+        public string Name
+        {
+            get
+            {
+                return this.name;
+            }
+                
+            set
+            {
+                this.name = value;
+            }
+        }
+
     }
 
    

@@ -29,6 +29,10 @@
                 salary = 23,
             };
             employ3.setAddress("Muscat"); //we can not access because it is private, due to that we used setter
+
+            //how to use access modifiers
+            employ3.Name = "Ali";
+            Console.WriteLine(employ3.Name);
         }
     }
 }
