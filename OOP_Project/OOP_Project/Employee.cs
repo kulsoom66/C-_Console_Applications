@@ -21,7 +21,7 @@ namespace OOP_Project
             this.id = id;
             this.name = name;
             this.age = age;
-            this.address = address;
+            this.address = address; 
             this.salary = salary;
         }
 
@@ -51,6 +51,9 @@ namespace OOP_Project
         {
             return address;
         }
+        public decimal getSalary() => this.salary;
+
+
 
         //Setters
         public void setName(string name)
@@ -67,6 +70,8 @@ namespace OOP_Project
         {
             this.address = address;
         }
+
+        public void setSalary(decimal salary) => this.salary = salary;
     }
 
    
