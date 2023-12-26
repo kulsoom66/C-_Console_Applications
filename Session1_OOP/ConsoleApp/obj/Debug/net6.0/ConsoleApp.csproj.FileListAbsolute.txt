@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Training\Desktop\C# projects\Session1_OOP\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll

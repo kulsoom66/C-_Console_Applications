@@ -1,0 +1,12 @@
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\bin\Debug\net6.0\Session1_OOP.deps.json
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\bin\Debug\net6.0\Session1_OOP.dll
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\bin\Debug\net6.0\Session1_OOP.pdb
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\obj\Debug\net6.0\Session1_OOP.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\obj\Debug\net6.0\Session1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\obj\Debug\net6.0\Session1_OOP.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\obj\Debug\net6.0\Session1_OOP.AssemblyInfo.cs
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\obj\Debug\net6.0\Session1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\obj\Debug\net6.0\Session1_OOP.dll
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\obj\Debug\net6.0\refint\Session1_OOP.dll
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\obj\Debug\net6.0\Session1_OOP.pdb
+C:\Users\Training\Desktop\C# projects\Session1_OOP\Session1_OOP\obj\Debug\net6.0\ref\Session1_OOP.dll
